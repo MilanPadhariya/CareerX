@@ -1,0 +1,419 @@
+{
+  "questions": [
+    {
+      "question": "How well do you handle disappointment or failure?",
+      "options": [
+        "a) I find it extremely difficult to handle",
+        "b) I struggle to cope with it",
+        "c) I recover, but it takes some time",
+        "d) I bounce back quickly and learn from it"
+      ]
+    },
+    {
+      "question": "How often do you feel a strong sense of empathy towards others' problems?",
+      "options": [
+        "a) Frequently",
+        "b) Rarely or never",
+        "c) Almost always",
+        "d) Occasionally"
+      ]
+    },
+    {
+      "question": "When faced with a challenging problem, I am:",
+      "options": [
+        "a) Extremely calm and composed",
+        "b) Highly anxious and stressed",
+        "c) Somewhat anxious and stressed",
+        "d) Usually calm but slightly anxious"
+      ]
+    },
+    {
+      "question": "How frequently do you engage in self-reflection regarding your emotions and thoughts?",
+      "options": [
+        "a) Occasionally",
+        "b) Daily",
+        "c) Rarely or never",
+        "d) A few times a week"
+      ]
+    },
+    {
+      "question": "How do you typically react when a close friend achieves success?",
+      "options": [
+        "a) Experience slight resentment",
+        "b) Feel happy but slightly envious",
+        "c) Feel overjoyed and genuinely happy for them",
+        "d) Remain indifferent"
+      ]
+    },
+    {
+      "question": "How effectively can you manage your anger in challenging situations?",
+      "options": [
+        "a) Not very effectively",
+        "b) Moderately effectively",
+        "c) Not at all effectively",
+        "d) Very effectively"
+      ]
+    },
+    {
+      "question": "In conflicts with others, what is your usual approach?",
+      "options": [
+        "a) Seek a peaceful resolution",
+        "b) Get angry and confrontational",
+        "c) Avoid addressing the issue",
+        "d) Attempt to resolve it but with some frustration"
+      ]
+    },
+    {
+      "question": "How do you typically respond to constructive criticism?",
+      "options": [
+        "a) React negatively and become upset",
+        "b) Accept it but feel somewhat defensive",
+        "c) Embrace it and seek improvement",
+        "d) Get defensive and resist the feedback"
+      ]
+    },
+    {
+      "question": "How often do you experience a sense of contentment and inner peace?",
+      "options": ["a) Rarely", "b) Almost never", "c) Often", "d) Sometimes"]
+    },
+    {
+      "question": "What is your reaction when you witness someone in pain?",
+      "options": [
+        "a) Don't pay much attention to it",
+        "b) Feel deeply empathetic and want to help immediately",
+        "c) Sympathize but don't necessarily take action",
+        "d) Feel empathy and offer help if possible"
+      ]
+    },
+    {
+      "question": "How frequently do you seek emotional support from friends or family when upset?",
+      "options": [
+        "a) Always",
+        "b) Often",
+        "c) Occasionally",
+        "d) Rarely or never"
+      ]
+    },
+    {
+      "question": "How do you typically respond to setbacks?",
+      "options": [
+        "a) Feel completely defeated and give up",
+        "b) Stay positive and keep moving forward",
+        "c) Feel discouraged and might give up temporarily",
+        "d) Experience a mix of emotions but stay motivated"
+      ]
+    },
+    {
+      "question": "How do you react when someone criticizes your appearance or choices?",
+      "options": [
+        "a) Get deeply hurt and offended",
+        "b) Feel self-conscious and upset",
+        "c) Brush it off, but it lingers in your mind",
+        "d) Don't let it bother me"
+      ]
+    },
+    {
+      "question": "How well can you manage stress and pressure in your life?",
+      "options": [
+        "a) Very well",
+        "b) Moderately well",
+        "c) Not very well",
+        "d) Not at all"
+      ]
+    },
+    {
+      "question": "How often do you feel a sense of joy and excitement about the future?",
+      "options": [
+        "a) Rarely or never",
+        "b) Occasionally",
+        "c) Always",
+        "d) Often"
+      ]
+    },
+    {
+      "question": "How do you typically respond when you observe someone being treated unfairly?",
+      "options": [
+        "a) Ignore it and mind my own business",
+        "b) Offer support but with some reluctance",
+        "c) Actively stand up for them",
+        "d) Express my disapproval but might not take action"
+      ]
+    },
+    {
+      "question": "How often do you experience a strong sense of gratitude for the people and things in your life?",
+      "options": [
+        "a) Occasionally",
+        "b) Rarely or never",
+        "c) Often",
+        "d) Daily"
+      ]
+    },
+    {
+      "question": "How well can you understand and manage your own emotions?",
+      "options": [
+        "a) Not very well",
+        "b) Moderately well",
+        "c) Very well",
+        "d) Not at all"
+      ]
+    },
+    {
+      "question": "How do you typically respond when you make a mistake?",
+      "options": [
+        "a) Deny it and avoid responsibility",
+        "b) Shift blame to others",
+        "c) Accept it but feel somewhat defensive",
+        "d) Accept it and take responsibility"
+      ]
+    },
+    {
+      "question": "How often do you experience feelings of jealousy or envy?",
+      "options": [
+        "a) Almost always",
+        "b) Often",
+        "c) Rarely or never",
+        "d) Occasionally"
+      ]
+    },
+    {
+      "question": "Which gas imparts the green color to plants?",
+      "options": [
+        "a) Oxygen",
+        "b) Nitrogen",
+        "c) Carbon dioxide",
+        "d) Chlorophyll"
+      ]
+    },
+    {
+      "question": "Which nutrient is crucial for building and repairing body tissues?",
+      "options": ["a) Carbohydrates", "b) Proteins", "c) Vitamins", "d) Fats"]
+    },
+    {
+      "question": "Which of the following is an autotrophic organism?",
+      "options": ["a) Lion", "b) Mushroom", "c) Oak tree", "d) Human"]
+    },
+    {
+      "question": "Which part of the human brain is responsible for regulating functions such as breathing, heart rate, and digestion?",
+      "options": [
+        "a) Cerebrum",
+        "b) Cerebellum",
+        "c) Medulla oblongata",
+        "d) Hippocampus"
+      ]
+    },
+    {
+      "question": "Which organelle is responsible for producing ATP, the energy currency of the cell?",
+      "options": [
+        "a) Nucleus",
+        "b) Mitochondrion",
+        "c) Golgi apparatus",
+        "d) Endoplasmic reticulum"
+      ]
+    },
+    {
+      "question": "If the age of one friend is 40 years, what is the average age of the remaining friends?",
+      "options": [
+        "a) 21.33 years",
+        "b) 23 years",
+        "c) 23.33 years",
+        "d) 30 years"
+      ]
+    },
+    {
+      "question": "How many liters of alcohol were in the original mixture?",
+      "options": [
+        "a) 20 liters",
+        "b) 25 liters",
+        "c) 30 liters",
+        "d) 40 liters"
+      ]
+    },
+    {
+      "question": "How many liters of each solution should be mixed to get 10 liters of a 50% alcohol solution?",
+      "options": [
+        "a) 4 liters of 30%, 6 liters of 70%",
+        "b) 3 liters of 30%, 7 liters of 70%",
+        "c) 2 liters of 30%, 8 liters of 70%",
+        "d) 5 liters"
+      ]
+    },
+    {
+      "question": "If A can complete a task in 8 days, B can complete it in 12 days, and C can complete it in 16 days, how long will it take for all three working together to complete the task?",
+      "options": ["a) 2 days", "b) 3 days", "c) 4 days", "d) 5 days"]
+    },
+    {
+      "question": "Two trains, A and B, start from the same station at the same time. Train A travels at 60 km/h, while Train B travels at 75 km/h. If Train A reaches its destination in 5 hours, how long does it take for Train B to reach its destination?",
+      "options": ["a) 4 hours", "b) 5 hours", "c) 6 hours", "d) 7 hours"]
+    },
+    {
+      "question": "Pipe A can fill a tank in 8 hours, while Pipe B can empty the same tank in 12 hours. If both pipes are opened together, how long will it take to fill the tank?",
+      "options": ["a) 12 hours", "b) 16 hours", "c) 24 hours", "d) 32 hours"]
+    },
+    {
+      "question": "From a point 45 meters above the water, the angle of elevation to the top of a tower is 30°. What is the height of the tower?",
+      "options": [
+        "a) 45 meters",
+        "b) 30 meters",
+        "c) 60 meters",
+        "d) 75 meters"
+      ]
+    },
+    {
+      "question": "A bag contains 6 red balls and 4 blue balls. If 3 balls are drawn randomly without replacement, what is the probability that all 3 balls are red?",
+      "options": ["a) 3/10", "b) 3/9", "c) 1/9", "d) 1/10"]
+    },
+    {
+      "question": "In how many ways can 5 girls and 3 boys be seated in a row so that no two boys are together?",
+      "options": ["a) 1680", "b) 1920", "c) 1440", "d) 2160"]
+    },
+    {
+      "question": "A product's price increased by 25%, and then it decreased by 20%. What is the net percentage change in the price?",
+      "options": [
+        "a) 5% increase",
+        "b) 5% decrease",
+        "c) No change",
+        "d) 4% increase"
+      ]
+    },
+    {
+      "question": "A shopkeeper sells a shirt for ₹800 at a loss of 20%. What was the cost price of the shirt?",
+      "options": ["a) ₹900", "b) ₹1000", "c) ₹750", "d) ₹960"]
+    },
+    {
+      "question": "Solve for x: 2x^3 - 5x^2 + 3x - 1 = 0.",
+      "options": [
+        "a) x = 1, x = 1/2, x = 1/2",
+        "b) x = 1, x = -1, x = -1/2",
+        "c) x = 1, x = 1/2, x = -1/2",
+        "d) x = 1, x = -1/2, x = -1/2"
+      ]
+    },
+    {
+      "question": "If you draw a card from a standard deck of 52 cards, what is the probability of drawing a red card (heart or diamond)?",
+      "options": ["a) 1/2", "b) 1/4", "c) 1/3", "d) 2/5"]
+    },
+    {
+      "question": "What is the probability of flipping a coin and getting heads three times in a row?",
+      "options": ["a) 1/2", "b) 1/4", "c) 1/8", "d) 1/16"]
+    },
+    {
+      "question": "If you roll a fair six-sided die, what is the probability of rolling an even number (2, 4, or 6)?",
+      "options": ["a) 1/2", "b) 1/3", "c) 1/4", "d) 2/3"]
+    },
+    {
+      "question": "If you roll a pair of fair six-sided dice, what is the probability of getting a sum of 7?",
+      "options": ["a) 1/6", "b) 1/12", "c) 1/9", "d) 1/36"]
+    },
+    {
+      "question": "A bag contains 5 red balls and 3 green balls. If 2 balls are drawn randomly without replacement, what is the probability that both balls are red?",
+      "options": ["a) 5/28", "b) 5/12", "c) 10/21", "d) 5/9"]
+    },
+    {
+      "question": "If a number is increased by 20% and then decreased by 10%, what is the net percentage change in the number?",
+      "options": [
+        "a) 10% increase",
+        "b) 10% decrease",
+        "c) No change",
+        "d) 8% increase"
+      ]
+    },
+    {
+      "question": "What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, ...?",
+      "options": ["a) 8", "b) 9", "c) 10", "d) 13"]
+    },
+    {
+      "question": "If a bag contains 5 red balls and 3 green balls, what is the probability of randomly selecting a red ball?",
+      "options": ["a) 3/8", "b) 5/8", "c) 2/5", "d) 5/3"]
+    },
+    {
+      "question": "If all cats have tails, and Fluffy has a tail, what can you conclude?",
+      "options": [
+        "a) Fluffy is a cat.",
+        "b) Fluffy is a dog.",
+        "c) Fluffy is a bird.",
+        "d) Fluffy is a fish."
+      ]
+    },
+    {
+      "question": "A train travels from Station A to Station B at 60 km/h and returns from Station B to Station A at 40 km/h. What is the average speed for the round trip?",
+      "options": ["a) 45 km/h", "b) 48 km/h", "c) 50 km/h", "d) 55 km/h"]
+    },
+    {
+      "question": "If all roses are flowers, and some flowers fade quickly, can you conclude that some roses fade quickly?",
+      "options": ["a) Yes", "b) No", "c) Maybe", "d) Not enough information"]
+    },
+    {
+      "question": "If ZEBRA is coded as AFIRW, how is TIGER coded?",
+      "options": ["a) RLJGF", "b) LJRFG", "c) JRLFG", "d) JLRFG"]
+    },
+    {
+      "question": "Which Indian state is known as the \"Land of Five Rivers\"?",
+      "options": ["a) Punjab", "b) Haryana", "c) Uttar Pradesh", "d) Rajasthan"]
+    },
+    {
+      "question": "Who was the first woman to climb Mount Everest from India?",
+      "options": [
+        "a) Bachendri Pal",
+        "b) Arunima Sinha",
+        "c) Santosh Yadav",
+        "d) Anshu Jamsenpa"
+      ]
+    },
+    {
+      "question": "Who developed the first successful polio vaccine?",
+      "options": [
+        "a) Albert Sabin",
+        "b) Jonas Salk",
+        "c) Edward Jenner",
+        "d) Louis Pasteur"
+      ]
+    },
+    {
+      "question": "Which planet in our solar system has the largest number of moons?",
+      "options": ["a) Earth", "b) Jupiter", "c) Saturn", "d) Neptune"]
+    },
+    {
+      "question": "Who composed the classical music composition \"Raga Yaman\"?",
+      "options": [
+        "a) Pandit Ravi Shankar",
+        "b) Ustad Zakir Hussain",
+        "c) Tansen",
+        "d) Lata Mangeshkar"
+      ]
+    },
+    {
+      "question": "In which year was the Indian Space Research Organisation (ISRO) founded?",
+      "options": ["a) 1967", "b) 1972", "c) 1982", "d) 1969"]
+    },
+    {
+      "question": "Who was the first Emperor of the Maurya Dynasty in ancient India?",
+      "options": [
+        "a) Ashoka",
+        "b) Chandragupta Maurya",
+        "c) Akbar",
+        "d) Harsha"
+      ]
+    },
+    {
+      "question": "If you cut a sphere parallel to its equator, what shape will the cross-section be?",
+      "options": ["a) Circle", "b) Ellipse", "c) Triangle", "d) Rectangle"]
+    },
+    {
+      "question": "Which Indian state is famous for the celebration of the Hornbill Festival?",
+      "options": ["a) Manipur", "b) Nagaland", "c) Assam", "d) Meghalaya"]
+    },
+    {
+      "question": "Who wrote the famous book \"The Discovery of India\"?",
+      "options": [
+        "a) Jawaharlal Nehru",
+        "b) Mahatma Gandhi",
+        "c) Rabindranath Tagore",
+        "d) Sardar Vallabhbhai Patel"
+      ]
+    },
+    {
+      "question": "Which planet is known as the \"Evening Star\" or \"Morning Star\" and is often visible just after sunset or before sunrise?",
+      "options": ["a) Mars", "b) Venus", "c) Jupiter", "d) Saturn"]
+    }
+  ]
+}
